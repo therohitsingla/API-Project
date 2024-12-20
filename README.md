@@ -5,6 +5,7 @@ TSAI models are deployed onto API Call dataset to predict the next timestamp of 
 Models used: ['MLP', 'GRU', 'FCN', 'LSTM', 'TCN']
 
 Output Template:-
+```
 Summary of Predictions:
 +-------------+----------------------+
 |     File    | Final Predicted Time |
@@ -14,3 +15,4 @@ Summary of Predictions:
 | A7_data.csv |   06-07-2025 09:34   |
 | A2_data.csv |   06-07-2025 11:19   |
 +-------------+----------------------+
+```
