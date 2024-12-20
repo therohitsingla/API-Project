@@ -1,6 +1,6 @@
 **TSAI Models**
 
-TSAI models are deployed onto API Call dataset to predict the next timestamp of the possible call
+TSAI models are deployed onto API Call dataset to predict the next timestamp of the upcoming possible call
 
 Models used: ['MLP', 'GRU', 'FCN', 'LSTM', 'TCN']
 
